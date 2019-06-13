@@ -8,16 +8,6 @@
 .night-mode #sidebar::-webkit-scrollbar-thumb {
   background: #393c43;
 }
-.night-mode #local-search {
-  background: #2d3035;
-}
-.night-mode #local-search .local-search-box--input {
-  background: #2d3035;
-  color: #99a9bf;
-}
-.night-mode #local-search .search-result-title {
-  color: #99a9bf;
-}
 .night-mode h1,
 .night-mode h2,
 .night-mode h3,
